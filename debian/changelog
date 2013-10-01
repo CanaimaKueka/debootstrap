@@ -1,3 +1,10 @@
+debootstrap (1.0.48+deb7u1+Canaima1) kerepakupai; urgency=low
+
+  * [f2fd732] Agregando scripts para la generación de jaulas de Canaima
+    3.0, 3.1 y 4.0. Cambiando datos del mantenedor.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Tue, 01 Oct 2013 13:46:59 -0430
+
 debootstrap (1.0.48+deb7u1) wheezy; urgency=low
 
   [ Joey Hess ]
